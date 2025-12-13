@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+ENV
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Mac/Linux system files
+.DS_Store
